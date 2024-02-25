@@ -55,9 +55,6 @@ hero_logo_image:
   - alt: "HP Logo"
     image: "/images/hp.svg"
 
-  - alt: "Netlify Logo"
-    image: "/images/netlify.svg"
-
   - alt: "Dropbox Logo"
     image: "/images/dropbox.svg"
 
@@ -120,18 +117,14 @@ faq:
   faq_title: Frequently asked questions
   faq_intro: Need some answers?
   faq_items:
-    - title: What distinguishes you as a mobile developer?
-      description: I bring a wealth of experience in crafting seamless user experiences and developing mobile solutions that prioritize functionality and innovation.
-    - title: How do you approach designing user-friendly mobile applications?
-      description: My approach involves a user-centric design philosophy, focusing on intuitive interfaces and fluid interactions to enhance the overall mobile experience.
-    - title: Can you walk us through your mobile app development process?
-      description: Certainly! From concept to deployment, I follow a structured development process, incorporating user feedback and iterative testing to ensure a polished and functional mobile application.
-    - title: How do you stay updated on the latest trends mobile development?
+    - title: What distinguishes you as a software developer?
+      description: I bring a wealth of experience in crafting seamless user experiences and developing solutions that prioritize functionality and innovation.
+    - title: How do you approach designing user-friendly applications?
+      description: My approach involves a user-centric philosophy, focusing on intuitive interfaces and fluid interactions to enhance the overall software experience.
+    - title: Can you walk us through your software app development process?
+      description: Certainly! From concept to deployment, I follow a structured development process, incorporating constructive feedback and iterative testing to ensure a polished and functional application.
+    - title: How do you stay updated on the latest trends?
       description: Continuous learning is key. I stay updated through industry publications, attending conferences, and actively participating in professional communities to stay at the forefront of industry trends.
-    - title: How do you ensure the security of mobile applications you develop?
-      description: Security is a top priority. I follow industry best practices, conduct thorough testing, and implement robust security measures to safeguard mobile applications and user data.
-    - title: What role does user feedback play in your development process?
-      description: User feedback is integral. I actively seek and incorporate user insights to refine designs and optimize mobile applications, ensuring they align with user expectations and preferences.
 
 #-------------------------------
 # Blog Section Settings
@@ -169,9 +162,14 @@ footer_menu__settings:
 # Social Links
 social:
   - {
-      icon: "fa-brands fa-facebook-f",
-      name: "Facebook",
-      link: "https://facebook.com",
+      icon: "fa-brands fa-github",
+      name: "Github",
+      link: "https://github.com/samyak1326",
+    }
+  - {
+      icon: "fa-brands fa-linkedin",
+      name: "LinkedIn",
+      link: "https://www.linkedin.com/in/samyakjain1301/",
     }
   - {
       icon: "fa-brands fa-x-twitter",
@@ -183,19 +181,13 @@ social:
       name: "Instagram",
       link: "https://www.instagram.com/samyak_13/",
     }
-  - {
-      icon: "fa-brands fa-github",
-      name: "Github",
-      link: "https://github.com/samyak1326",
-    }
 
-# Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
 # Other icons can be found at https://fontawesome.com/icons
 
 #-------------------------------
 # Newsletter Settings
 # mailchimp:
-#   enable: true
+#   enable: false
 #   mailchimp_title: Stay inspired weekly 📬 Your friendly dose of tips & insights!
 #   mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
 #   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp

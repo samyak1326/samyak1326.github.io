@@ -22,7 +22,7 @@ I am particularly fascinated by the potential of cloud-native technologies to re
     <img src="/images/01-2.jpg" loading="lazy" alt="Author">
     <img src="/images/01-3.jpg" loading="lazy" alt="Author">
   </div>
-  <em>Photo by <a href="https://www.pexels.com/@david-garrison-1128051/" target="_blank">Josh Sorenson</a> on <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>
+  <em>Photo by <a href="https://www.pexels.com/@joshsorenson/" target="_blank">Josh Sorenson</a> on <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>
 </div>
 
 I am actively seeking part-time opportunities in the field of Software Engineering and Cloud Computing starting Summer 2024. I am eager to apply and grow my skills by working on challenging projects within a progressive organization.
