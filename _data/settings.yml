@@ -38,8 +38,8 @@ author:
 # Hero Settings
 hero:
   enable: true
-  hero_title: I'm a passionate software developer and mobile developer.
-  hero_description: Leveraging my expertise, I'm here to collaborate with you on crafting design solutions that transcend expectations. Let's embark on a journey of innovation together!
+  hero_title: I'm a passionate software and cloud developer.
+  hero_description: Leveraging my experience, I'm here to collaborate with you on crafting design solutions that transcend expectations. Let's embark on a journey of innovation together!
 
 # Hero Logos
 hero_logos:
