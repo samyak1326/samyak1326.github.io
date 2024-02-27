@@ -92,3 +92,56 @@
     }
   }
 }
+.dive-deeper-box {
+  border: 1px solid #d1d5da;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.dive-deeper-box p {
+  margin-bottom: 10px;
+  color: #333;
+  font-size: 16px;
+}
+
+.dive-deeper-link {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease-in-out;
+  color: #333;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.dive-deeper-link:hover {
+  text-decoration: none;
+  background-color: #f6f8fa;
+}
+
+.dive-deeper-link i {
+  font-size: 24px;
+  width: 30px; /* Ensures icons align nicely with the text */
+}
+
+.dive-deeper-link.youtube {
+  color: rgb(221, 12, 12);
+}
+
+.dive-deeper-link.youtube i {
+  color: rgb(231, 23, 23);
+}
+
+.dive-deeper-link.github {
+  color: #333;
+}
+
+.dive-deeper-link.github i {
+  color: #333;
+}

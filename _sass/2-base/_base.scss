@@ -1,3 +1,5 @@
+// base css file for "layout: page"
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
@@ -251,4 +253,14 @@ table td {
 
 .lightense-backdrop {
   background-color: var(--background-color) !important;
+}
+
+#education {
+  margin-bottom: 20px;
+}
+
+.degree {
+  font-size: 0.9em;
+  color: #6c757d;
+  margin-top: -3px;
 }
