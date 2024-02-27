@@ -3,52 +3,79 @@ layout: page
 permalink: /resume/
 title: Resume
 nav: true
-description: "Click the logo to download/view PDF version."
-resume_pdf: Samyak_Jain_Resume.pdf
+# description: "[Click here to download/view my resume](/assets/Samyak_Jain_Resume_updated.pdf)"
+# description: "[![ Download Resume ](/images/download-solid.svg) Download Resume ](/assets/Samyak_Jain_Resume_updated.pdf){: .download}"
 ---
+
+<!-- <div class="explore-tags">
+    <h3>Explore:</h3>
+    <div class="tag-cloud">
+      <a href="/assets/Samyak_Jain_Resume_updated.pdf" target="_blank" style="margin-top: 0;">Download Resume</a>
+    </div>
+</div> -->
+
+<div class="explore-tags" >
+    <!-- <h3 style="display: inline-block; vertical-align: middle; line-height: normal; margin-right: 10px;">Explore:</h3> -->
+    <div class="tag-cloud">
+      <a href="/assets/Samyak_Jain_Resume_updated.pdf" target="_blank" style="text-decoration: none;">Click here to download / view my resume</a>
+    </div>
+</div>
+
+<div id="general-information">
+    <h2>General Information</h2>
+    <div class="info-row">
+        <div class="info-label">Full Name</div>
+        <div class="info-detail">Samyak Jain</div>
+    </div>
+    <div class="info-row">
+        <div class="info-label">Date of Birth</div>
+        <div class="info-detail">August 13 2001</div>
+    </div>
+    <div class="info-row">
+        <div class="info-label">E-mail</div>
+        <div class="info-detail">jainsamyak.cse@gmail.com</div>
+    </div>
+</div>
 
 <section id="education">
     <h2>Education</h2>
-    <strong>George Mason University</strong>, Fairfax VA USA
-    <div class="degree">Masters of Science in Computer Science, Aug 2023 – May 2025</div>
-    <ul>
-        <li>Cumulative GPA: 3.78/4.00</li>
-        <li>Relevant Coursework: Analysis of Algorithms, Mathematical Foundations of Computer Science, Computer Systems and Systems Programming.</li>
-    </ul>
-    <strong>Graphic Era University</strong>, Dehradun India
-    <div class = "degree" >Bachelor of Technology in Computer Science with Specialization in DS and AI, Aug 2019 – June 2023</div>
-    <ul>
-        <li>Cumulative GPA: 8.82/10.00</li>
-        <li>Relevant Coursework: Algorithms and Data Structure, Database Management System, Operating System, Computer Network, Linear Algebra, Discrete Mathematics, Big Data.</li>
-    </ul>
+    <div class="education-block">
+        <div class="school-location">
+            <span class="school-name">George Mason University</span>
+            <span class="location">Fairfax, VA, USA</span>
+        </div>
+        <div class="degree">Masters of Science in Computer Science</div>
+        <div class="details">
+            <ul>
+                <li>Cumulative GPA: 3.78/4.00</li>
+                <li>Relevant Coursework: Analysis of Algorithm, Mathematical Foundations of Computer Science, Comp Systems and Sys Prog</li>
+            </ul>
+        </div>     
+    </div>
+    <hr id = "edu-line">
+    <div class="education-block">
+        <div class="school-location">
+            <span class="school-name">Graphic Era Deemed to be University</span>
+            <span class="location">Dehradun, India</span>
+        </div>
+        <div class="degree">Bachelor of Technology in Computer Science (with Specialization in AI and DS)</div>
+        <div class="details">
+            <ul>
+                <li>Cumulative GPA: 8.82/10.00</li>
+                <li>Relevant Coursework: Algorithms and Data Structure, Database Management System, Operating System, Computer Network, Linear Algebra, Discrete Mathematics, Big Data</li>
+            </ul>
+        </div>
+    </div>
 </section>
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/01-2.jpg" loading="lazy" alt="Author">
-    <img src="/images/01-3.jpg" loading="lazy" alt="Author">
-  </div>
-  <em>Photo by <a href="https://www.pexels.com/@david-garrison-1128051/" target="_blank">Josh Sorenson</a> on <a href="https://www.pexels.com/" target="_blank">Pexels</a></em>
-</div>
-
-<section id="technical-skills">Technical Skills</h2>
-    <ul>
-        <li>Programming Languages: Python, Core Java, C/C++, Basics of Scala</li>
-        <li>Big Data, Machine Learning, and Deep Learning: Hadoop, MapReduce, Basics of Spark with Scala, Linux, Regression, Classification, CNN.</li>
-    </ul>
-</section>
-
-<section id="work-experience" style="background-color: #f0f7da; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-    <h2 style="color: #5bc0de; border-bottom: 2px solid #5bc0de; padding-bottom: 10px;">Work Experience and Training</h2>
-    <p><strong>Front End Intern</strong>, Vega Moon Technologies, New Delhi India</p>
-    <p><em>June 2022 - August 2022</em></p>
-    <ul>
-        <li>Developed end-to-end websites for the organization and its clients.</li>
-        <li>Worked with technologies like NodeJS and React.</li>
-    </ul>
-    <p><strong>Research Student</strong>, Graphic Era University, Dehradun India</p>
-    <p><em>Oct 2022 - Jan 2023</em></p>
-    <ul>
-        <li>Assisted in data pre-processing and analysis to find insights and patterns.</li>
-    </ul>
+<section id="professional-profiles">
+    <h2>Professional Profiles</h2>
+    <div class="profile-links">
+        <a href="https://github.com/samyak1326" class="profile-link" target="_blank">
+            <i class="fab fa-github"></i> GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/samyakjain1301/" class="profile-link" target="_blank">
+            <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+    </div>
 </section>

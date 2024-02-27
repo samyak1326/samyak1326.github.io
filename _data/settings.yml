@@ -64,6 +64,9 @@ hero_logo_image:
   - alt: "Chrome Logo"
     image: "/images/chrome.svg"
 
+  - alt: "Downlaod Logo"
+    image: "/images/download-solid.svg"
+
 #-------------------------------
 # Slider Featured Settings
 featured:

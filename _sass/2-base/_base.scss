@@ -255,12 +255,133 @@ table td {
   background-color: var(--background-color) !important;
 }
 
+#general-information {
+  font-family: $heading-font-family;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+#general-information h2 {
+  text-align: left;
+  margin-bottom: 20px;
+  color: #666;
+}
+
+.info-row {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.info-label {
+  font-weight: bold;
+  width: 150px;
+  color: #333;
+}
+
+.info-detail {
+  flex-grow: 1;
+  color: #797777;
+}
+
 #education {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  letter-spacing: $base-letter-spacing;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #f9f9f9;
+}
+
+#education h2 {
+  // font-size: 22px;
+  color: #666; /* Making the header a less bright color as requested */
   margin-bottom: 20px;
 }
 
+.education-block {
+  margin-bottom: 20px;
+}
+
+.school-location {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.school-name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000; /* Original color for the school name */
+}
+
+.location {
+  font-size: 16px;
+  color: #000; /* Original color for the location */
+}
+
 .degree {
-  font-size: 0.9em;
-  color: #6c757d;
-  margin-top: -3px;
+  font-style: italic;
+  font-size: 16px;
+  margin: 5px 0;
+  color: #666; /* Faded color for the degree as requested */
+}
+
+.details ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #666; /* Faded color for the details as requested */
+}
+
+.details ul li {
+  font-size: 16px;
+}
+
+#edu-line{
+  margin-top: 10px; /* Reduce the top margin */
+  margin-bottom: 10px; /* Reduce the bottom margin */
+  border: 0;
+  height: 1px;
+  width: 100%;
+}
+
+#professional-profiles {
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  letter-spacing: $base-letter-spacing;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+#professional-profiles h2 {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.profile-links {
+  display: flex;
+  justify-content: start;
+  gap: 20px; /* Adjust the gap between the icons as needed */
+}
+
+.profile-link {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  text-decoration: none;
+  color: #666;
+}
+
+.profile-link i {
+  margin-right: 10px;
 }

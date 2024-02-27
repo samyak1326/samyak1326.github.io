@@ -10,7 +10,7 @@ layout: default
       <h1 class="page__title">{{ page.title | escape }}</h1>
       {% endif %}
       {% if page.description %}
-      <div class="page__description">{{ page.description }}</div>
+      <div class="page__description">{{ page.description | markdownify}}</div>
       {% endif %}
     </div>
   
