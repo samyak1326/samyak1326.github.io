@@ -3,16 +3,8 @@ layout: page
 permalink: /resume/
 title: Resume
 nav: true
-# description: "[Click here to download/view my resume](/assets/Samyak_Jain_Resume_updated.pdf)"
 # description: "[![ Download Resume ](/images/download-solid.svg) Download Resume ](/assets/Samyak_Jain_Resume_updated.pdf){: .download}"
 ---
-
-<!-- <div class="explore-tags">
-    <h3>Explore:</h3>
-    <div class="tag-cloud">
-      <a href="/assets/Samyak_Jain_Resume_updated.pdf" target="_blank" style="margin-top: 0;">Download Resume</a>
-    </div>
-</div> -->
 
 <div class="explore-tags" >
     <!-- <h3 style="display: inline-block; vertical-align: middle; line-height: normal; margin-right: 10px;">Explore:</h3> -->
