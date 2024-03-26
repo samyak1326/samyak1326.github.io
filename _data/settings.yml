@@ -58,8 +58,8 @@ hero_logo_image:
   - alt: "Dropbox Logo"
     image: "/images/dropbox.svg"
 
-  - alt: "EA Logo"
-    image: "/images/ea.svg"
+  # - alt: "EA Logo"
+  #   image: "/images/ea.svg"
 
   - alt: "Chrome Logo"
     image: "/images/chrome.svg"
@@ -143,7 +143,7 @@ author_section:
   author_section_title: "Hi there 👋 ! Welcome to my zone. I'm Samyak, the playmaker of ideas."
   author_section_description: When I'm not crafting digital wonders, you can catch me sipping on coffee, cruising around on my bike, diving into games, and grooving to some tunes. Let's connect, share stories, and make this digital space our cozy corner. Cheers to good vibes and creative adventures!
   author_section_image: "/images/01.jpg"
-  author_section_image_alt: Daryl Mercer
+  author_section_image_alt: Samyak Jain
   author_section_button_text: Let's connect!
   author_section_button_link: "/contact/"
 

@@ -9,7 +9,7 @@ nav: true
 <div class="explore-tags" >
     <!-- <h3 style="display: inline-block; vertical-align: middle; line-height: normal; margin-right: 10px;">Explore:</h3> -->
     <div class="tag-cloud">
-      <a href="/assets/Samyak_Jain_Resume_updated.pdf" target="_blank" style="text-decoration: none;">Click here to download / view my resume</a>
+      <a href="/assets/Samyak_Jain_Resume.pdf" target="_blank" style="text-decoration: none;">Click here to download / view my resume</a>
     </div>
 </div>
 
