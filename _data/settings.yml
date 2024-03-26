@@ -132,7 +132,7 @@ faq:
 #-------------------------------
 # Blog Section Settings
 blog:
-  enable: true
+  enable: false
   blog_intro: What's new?
   blog_title: Latest from blog
 
