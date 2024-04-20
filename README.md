@@ -68,3 +68,4 @@ Before using the Gerous theme, please read the attached documentation.
 ### Support
 
 <p>If you have any questions or feedback about the theme, please feel free to contact me by mail <a href="mailto:hi.artemsheludko@gmail.com">Contact</a><p>
+
