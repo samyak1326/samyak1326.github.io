@@ -32,7 +32,7 @@ cta_button:
 # Author Settings
 author:
   author_name: "Samyak Jain"
-  author_avatar: "/images/01-1.jpg"
+  author_avatar: "/images/profile-pic-blue-bg.jpg"
 
 #-------------------------------
 # Hero Settings
@@ -43,7 +43,7 @@ hero:
 
 # Hero Logos
 hero_logos:
-  enable: true
+  enable: false
 
 hero_logo_image:
   - alt: "Apple Logo"
